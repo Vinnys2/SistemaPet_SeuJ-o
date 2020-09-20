@@ -1,0 +1,1 @@
+Preferi fazer fusão das tabelas, para assim ficar mais fácil o problema é que não lembro como fazer fusão no brmodelo então nele vai estar separado mesmo.
