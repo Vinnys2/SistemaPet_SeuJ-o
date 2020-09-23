@@ -8,13 +8,14 @@
 	$nome_dono = $_POST['nome_dono'];
 	$rg_dono = $_POST['rg_dono'];
 
-	
+		
 	
 	$SQL = "UPDATE animal SET nome='$nome', tipo='$tipo', raca='$raca', nome_dono='$nome_dono', rg_dono='$rg_dono'  WHERE id=$id";
+	//Echo "$SQL";
 	
-
+	
 	// echo "$SQL";
 	include('rodape_conexao.php');
 	
-	header('location:cons_todos_animais.php');
+    header('location:cons_todos_animais.php');
 ?>

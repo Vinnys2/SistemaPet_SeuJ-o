@@ -50,7 +50,7 @@
 				<br>
 				
 				<label>RG_Dono:</label>
-				<input type="text" name="tipo" value="'.$rg_dono.'"/>
+				<input type="text" name="rg_dono" value="'.$rg_dono.'"/>
 				<br>
 				
 			
